@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Khabib
-- 👀 I’m interested in Algothms, Python, C languages
+- 👀 I’m interested in Algothms, Python & C language
 - 🌱 I’m currently learning Algothms
 - 📫 How to reach me https://t.me/stereotuple
 
