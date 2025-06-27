@@ -8,6 +8,6 @@ info_awayB02: dict = {
        "codeforces": "@502BadGateway",
        "leetcode": "@502BadGateway"
     }
-    "tech_stack": [Python, FastAPI, PostgreSQL]
+    "tech_stack": ["Python", "FastAPI", "PostgreSQL"]
 }
 ```
