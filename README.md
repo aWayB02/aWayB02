@@ -5,8 +5,8 @@ info_awayB02 = {
     }
     links: {
        telegram: "@stereotuple",
-        codeforces: "@502BadGateway",
-        leetcode: "@502BadGateway", 
+       codeforces: "@502BadGateway",
+       leetcode: "@502BadGateway"
     }
     tech_stack: [Python, FastAPI, PostgreSQL]
 }
