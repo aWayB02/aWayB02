@@ -4,8 +4,10 @@ info_awayB02 = {
         name: "Khabib Shakhbanov"
     }
     links: {
-        telegram: "@stereotuple"
-        codeforces: "@502BadGateway"
+       telegram: "@stereotuple",
+        codeforces: "@502BadGateway",
+        leetcode: "@502BadGateway", 
     }
+    tech_stack: [Python, FastAPI, PostgreSQL]
 }
 ```
